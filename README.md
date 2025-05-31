@@ -4,4 +4,3 @@
 <h2>Where I Teach </h2>
 <p>I Teach at York High School</p>
 <img src = "https://i.postimg.cc/k4HWZj6F/IMG-3295.jpg" />
-[IMG-3295.jpg](https://postimg.cc/G8kBTxjH)
