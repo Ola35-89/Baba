@@ -3,5 +3,5 @@
 <h1>Abiolaola</h1>
 <h2>Where I Teach </h2>
 <p>I Teach at York High School</p>
-![alt text](https://github.com/Baba/Baba/blob/main/Asset/IMG_3295.jpg)
-My picture 
+
+[IMG-3295.jpg](https://postimg.cc/G8kBTxjH)
